@@ -7,7 +7,7 @@ Portfolio for Eric Coteron. Includes responsive navigation and display. All item
 
 ![screenshot](assets/images/screenshot.png) 
 
-Deployed Link:
+Deployed Link: https://coterone.github.io/Portfoliov1.0/
 
 
 ## Questions
